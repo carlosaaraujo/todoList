@@ -2,7 +2,7 @@
 
 <h1 align="center">To do List</h1>
 
-> Um pouco da idea de CRUD, criação simples a ideia fundamental sendo a aplicação das tecnologias AJAX e VueJS.
+> Aplicação simples para ajudar a organizar a rotina utilizando a ideia de CRUD.
 
 
 <div align="center">
@@ -16,6 +16,13 @@
     </a>
   </h3>
 </div>
+
+## Instalação
+É necessário fazer uma fake-api com o json-server.
+
+> npm install
+> npm run server
+> npm run build
 
 <!-- OVERVIEW -->
 
