@@ -2,7 +2,7 @@
 
 <h1 align="center">To do List</h1>
 
-> Aplicação simples para ajudar a organizar a rotina utilizando a ideia de CRUD.
+### Aplicação simples para ajudar a organizar a rotina utilizando a ideia de CRUD.
 
 
 <div align="center">
@@ -18,15 +18,15 @@
 </div>
 
 ## Instalação
-É necessário fazer uma fake-api com o json-server.
+> É necessário fazer uma fake-api com o json-server.
 
-> npm install
-> npm run server
-> npm run build
+* npm install
+* npm run server
+* npm run build
 
 <!-- OVERVIEW -->
 
-## Overview
+## Preview
 
 ![screenshot](https://i.imgur.com/aFV2Baj.gif)
 
