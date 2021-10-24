@@ -2,22 +2,9 @@
 
 <h1 align="center">To do List</h1>
 
-### Aplicação simples para ajudar a organizar a rotina utilizando a ideia de CRUD.
+> Aplicação simples para ajudar a organizar a rotina utilizando a ideia de CRUD.
 
-
-<div align="center">
-  <h3>
-    <a href="https://carlosaaraujo.github.io/404-Not-Found/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
-  </h3>
-</div>
-
-## Instalação
+## Instalação:
 > É necessário fazer uma fake-api com o json-server.
 
 * npm install
@@ -26,11 +13,11 @@
 
 <!-- OVERVIEW -->
 
-## Preview
+## Preview:
 
 ![screenshot](https://i.imgur.com/aFV2Baj.gif)
 
-### Built With
+### Built With:
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
